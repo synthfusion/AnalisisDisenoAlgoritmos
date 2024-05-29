@@ -44,7 +44,7 @@ int main() {
 
     double maxBenefit = knapsackGreedy(W, items);
 
-    std::cout << "El beneficio máximo que se puede obtener es: " << maxBenefit << std::endl;
+    std::cout << "El beneficio maximo que se puede obtener es: " << maxBenefit << std::endl;
 
     return 0;
 }
