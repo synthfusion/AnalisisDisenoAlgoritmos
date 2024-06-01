@@ -1,4 +1,4 @@
-inicio#include <iostream>
+#include <iostream>
 #include <vector>
 #include <algorithm>
 
@@ -43,4 +43,3 @@ int main() {
 
     return 0;
 }
-
